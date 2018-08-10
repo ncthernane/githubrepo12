@@ -1,0 +1,3033 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Wpf01_ShowMap
+</name>
+</assembly>
+<members>
+<member name="T:Wpf01_ShowMap.My.Resources.image">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ClsImprove">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ClsImprove_OnCircle">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ClsOthers">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ClsOthers_OnCircle">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ClsTrouble">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ClsTrouble_OnCircle">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ClsWS">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.ClsWS_OnCircle">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.CompassTS">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.CompassTZS">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.Logo">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.MapTS">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.MapTZS_1920x1020">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.Ship">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.StsConfirmed_OnCircle">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.StsCorresponding_OnCircle">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.StsFinished_OnCircle">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.image.StsUnconfirmed_OnCircle">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.lblSecNmDsg">
+<summary>
+  Design に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.lblSecNmPro">
+<summary>
+  Procurement に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.lblSecNmWH">
+<summary>
+  Warehouse に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.tblStsProCompleted">
+<summary>
+  Completed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.tblStsProConfirmed">
+<summary>
+  Confirmed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.tblStsProUnconfirmed_FromWH">
+<summary>
+  Unconfirmed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.tblStsWHCompleted">
+<summary>
+  Completed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.tblStsWHConfirmed">
+<summary>
+  Confirmed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_En.tblStsWHUnconfirmed">
+<summary>
+  Unconfirmed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwMain_En">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.btnReload">
+<summary>
+  Reload に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.btnShowConfig">
+<summary>
+  Config に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.btnShowTicketList">
+<summary>
+  Ticket List に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colClassNameFull">
+<summary>
+  Classification に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colDesignCorr">
+<summary>
+  Correspond Content に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colHdCompletedAt">
+<summary>
+  Completed At に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colHdDraftee">
+<summary>
+  Draftee に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colHdOccurredAt">
+<summary>
+  Occurred At に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colHdOccurredVessel">
+<summary>
+  Occurred Vessel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colHdRevisedDrawingDate">
+<summary>
+  Delivery Date に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colHdRevisedDrawingNo">
+<summary>
+  Rev. Drawing No. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colHdSPDraftingNo">
+<summary>
+  SP Drafting No. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colRequest">
+<summary>
+  Details of Request に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colStatusName">
+<summary>
+  Status に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colTeam">
+<summary>
+  Design Team に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.colTranslatedRequest">
+<summary>
+  Details of Request(Translated) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.gbChangeMark">
+<summary>
+  Display Mark に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.gbxDesignCorrInf">
+<summary>
+  Design Corresspondence に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.gbxDraftedInf">
+<summary>
+  Drafted Information に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblBtnShowWdwSC">
+<summary>
+  Search に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblClass">
+<summary>
+  Classification に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblCorr">
+<summary>
+  Correspondence に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblDesignTeam">
+<summary>
+  Design Team に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblDraftee">
+<summary>
+  Draftee に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblExistenceOfRevDrawing">
+<summary>
+  * No Rev. Drawing に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblLastReloaded">
+<summary>
+  *Last Reloaded に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblListTitle">
+<summary>
+  Ticket List に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblNoPhoto">
+<summary>
+  *No Photo に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblOccurredAt">
+<summary>
+  Occurred At に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblOccurredVessel">
+<summary>
+  Occurred Vessel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblRequest">
+<summary>
+  Details of Request に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblRevisedDrawingDate">
+<summary>
+  Delivery Date に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblRevisedDrawingNo">
+<summary>
+  Rev. Drawing No. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblSPDraftingNo">
+<summary>
+  SP Drafting No. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblStatus">
+<summary>
+  Status に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.lblTranslatedRequest">
+<summary>
+  Details of Request(Translated) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.rbtnShowClass">
+<summary>
+  Classification に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.rbtnShowStatus">
+<summary>
+  Status に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblClearFiltering">
+<summary>
+  Clear filtering に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblClsImprove">
+<summary>
+  Improve に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblClsOthers">
+<summary>
+  Other に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblClsTrouble">
+<summary>
+  Bug に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblClsWS">
+<summary>
+  Waiting/Shortage に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblStsCompleted">
+<summary>
+  Completed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblStsConfirmed">
+<summary>
+  Confirmed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblStsCorresponding">
+<summary>
+  Corresponding に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_En.tblStsUnconfirmed">
+<summary>
+  Unconfirmed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwConfig_En">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.btnSave">
+<summary>
+  Save に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.btnSaveCancel">
+<summary>
+  Cancel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.gbxSearchCondition">
+<summary>
+  [Completed] tickets&apos; display range に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.gbxSpanOfAoundAlert">
+<summary>
+  Span of sounding alert に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.gbxSpanOfCF_AtFindNewTicket">
+<summary>
+  At drafted another factory に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.gbxSpanOfCF_AtRegularly">
+<summary>
+  Every fixed time に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.gbxSpanOfChangeFactory">
+<summary>
+  Timing of changing factory に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.gbxSpanOfReload">
+<summary>
+  Span of reloading data に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSearchCondition_Days">
+<summary>
+  days に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSearchCondition_Last">
+<summary>
+  Last に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSpanOfAoundAlert_Sec">
+<summary>
+  seconds に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSpanOfCF_AtFindNewTicket_Exec_No">
+<summary>
+  No に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSpanOfCF_AtFindNewTicket_Exec_Yes">
+<summary>
+  Yes に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSpanOfCF_AtRegularly_Exec_No">
+<summary>
+  No に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSpanOfCF_AtRegularly_Exec_Yes">
+<summary>
+  Yes に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSpanOfCF_AtRegularly_Exec_Yes_EverySec">
+<summary>
+  every seconds に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.lblSpanOfReload_EverySec">
+<summary>
+  every seconds に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.tbxSearchCondition_Desc1">
+<summary>
+  * Please specify the range of [Completed] ticket&apos;s completed datetime. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.tbxSearchCondition_Desc2">
+<summary>
+  * In addition, regardless of the above specification, the items of not completed ticket are always displayed. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.tbxSpanOfAoundAlert_Desc">
+<summary>
+  * When the Alert image is blinking displayed, please specify how long you want the alert tone to sound. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.tbxSpanOfCF_AtFindNewTicket_Desc">
+<summary>
+  * If this application is running at Tsuneishi Design&apos;s signage, fixed &quot;Yes&quot;. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.tbxSpanOfCF_AtRegularly_Desc">
+<summary>
+  * Please specify the automatic changing way of factory to be displayed. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_En.tbxSpanOfReload_Desc">
+<summary>
+  * Please specify seconds to automatically read the latest case information from Database. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.lblSecNmDsg">
+<summary>
+  設計 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.lblSecNmPro">
+<summary>
+  調達 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.lblSecNmWH">
+<summary>
+  倉庫 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.tblStsProCompleted">
+<summary>
+  対応完 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.tblStsProConfirmed">
+<summary>
+  確認済 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.tblStsProUnconfirmed_FromWH">
+<summary>
+  未確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.tblStsWHCompleted">
+<summary>
+  対応完 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.tblStsWHConfirmed">
+<summary>
+  確認済 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Ja.tblStsWHUnconfirmed">
+<summary>
+  未確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.lblSecNmDsg">
+<summary>
+  設計 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.lblSecNmPro">
+<summary>
+  調達 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.lblSecNmWH">
+<summary>
+  倉庫 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.tblStsProCompleted">
+<summary>
+  対応完 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.tblStsProConfirmed">
+<summary>
+  己確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.tblStsProUnconfirmed_FromWH">
+<summary>
+  未確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.tblStsWHCompleted">
+<summary>
+  対応完 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.tblStsWHConfirmed">
+<summary>
+  己確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trUcCntMatrix_Zh.tblStsWHUnconfirmed">
+<summary>
+  未確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.btnIniCond">
+<summary>
+  条件初期化 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.btnSave">
+<summary>
+  Search に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.btnSaveCancel">
+<summary>
+  Cancel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblClass">
+<summary>
+  分類 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblDesc">
+<summary>
+  * … 部分一致検索 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblDesignTeam">
+<summary>
+  設計対応ﾁｰﾑ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblDrafteeName">
+<summary>
+  起案者名 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblDrafteeNameFirst">
+<summary>
+  名 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblDrafteeNameLast">
+<summary>
+  姓 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblOccurredDate">
+<summary>
+  発生日 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblOccurredVessel">
+<summary>
+  発生番船 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblRevDrawingDate">
+<summary>
+  改正図出図日 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblRevDrawingNo">
+<summary>
+  改正図番号 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblStatus">
+<summary>
+  状態 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblStsCompleted">
+<summary>
+  対応完 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblStsConfirmed">
+<summary>
+  確認済 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblStsCorresponding">
+<summary>
+  対応中 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblStsUnconfirmed">
+<summary>
+  未確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Ja.lblWdwTitle">
+<summary>
+  検索 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.btnIniCond">
+<summary>
+  Initialize Condition に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.btnSave">
+<summary>
+  Search に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.btnSaveCancel">
+<summary>
+  Cancel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblClass">
+<summary>
+  Classification に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblDesc">
+<summary>
+  * … Partial Matching Search に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblDesignTeam">
+<summary>
+  Design Team に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblDrafteeName">
+<summary>
+  Draftee Name に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblDrafteeNameFirst">
+<summary>
+  First に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblDrafteeNameLast">
+<summary>
+  Last に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblOccurredDate">
+<summary>
+  Occurred Date に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblOccurredVessel">
+<summary>
+  Occurred Vessel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblRevDrawingDate">
+<summary>
+  Revised Drawing Date に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblRevDrawingNo">
+<summary>
+  Revised Drawing No に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblStatus">
+<summary>
+  Status に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblStsCompleted">
+<summary>
+  Completed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblStsConfirmed">
+<summary>
+  Confirmed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblStsCorresponding">
+<summary>
+  Corresponding に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblStsUnconfirmed">
+<summary>
+  Unconfirmed に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_En.lblWdwTitle">
+<summary>
+  Search に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.btnIniCond">
+<summary>
+  条件初期化 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.btnSave">
+<summary>
+  Search に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.btnSaveCancel">
+<summary>
+  Cancel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblClass">
+<summary>
+  分類 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblDesc">
+<summary>
+  * … 部分一致検索 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblDesignTeam">
+<summary>
+  設計対応ﾁｰﾑ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblDrafteeName">
+<summary>
+  起案者名 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblDrafteeNameFirst">
+<summary>
+  名 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblDrafteeNameLast">
+<summary>
+  姓 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblOccurredDate">
+<summary>
+  発生日 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblOccurredVessel">
+<summary>
+  発生番船 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblRevDrawingDate">
+<summary>
+  改正図出図日 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblRevDrawingNo">
+<summary>
+  改正図番号 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblStatus">
+<summary>
+  状態 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblStsCompleted">
+<summary>
+  対応完 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblStsConfirmed">
+<summary>
+  確認済 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblStsCorresponding">
+<summary>
+  対応中 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblStsUnconfirmed">
+<summary>
+  未確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwSearchCondition_Zh.lblWdwTitle">
+<summary>
+  検索 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.btnSave">
+<summary>
+  Save に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.btnSaveCancel">
+<summary>
+  Cancel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.gbxSearchCondition">
+<summary>
+  [対応完了]案件 表示範囲 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.gbxSpanOfAoundAlert">
+<summary>
+  Alert音 再生時間 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.gbxSpanOfCF_AtFindNewTicket">
+<summary>
+  現在表示していない工場で新規案件が登録された場合の自動切替 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.gbxSpanOfCF_AtRegularly">
+<summary>
+  一定時間毎の自動切替 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.gbxSpanOfChangeFactory">
+<summary>
+  工場 自動切替間隔 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.gbxSpanOfReload">
+<summary>
+  Data 自動読込間隔 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSearchCondition_Days">
+<summary>
+  日間 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSearchCondition_Last">
+<summary>
+  直近 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSpanOfAoundAlert_Sec">
+<summary>
+  秒間 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSpanOfCF_AtFindNewTicket_Exec_No">
+<summary>
+  実行しない に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSpanOfCF_AtFindNewTicket_Exec_Yes">
+<summary>
+  実行する に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSpanOfCF_AtRegularly_Exec_No">
+<summary>
+  実行しない に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSpanOfCF_AtRegularly_Exec_Yes">
+<summary>
+  実行する に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSpanOfCF_AtRegularly_Exec_Yes_EverySec">
+<summary>
+  秒毎 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.lblSpanOfReload_EverySec">
+<summary>
+  秒毎 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.tbxSearchCondition_Desc1">
+<summary>
+  ※表示したい[対応完了]案件の対応完了日範囲を指定して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.tbxSearchCondition_Desc2">
+<summary>
+  ※尚、上記指定に関わらず[未確認][確認済][対応中]の案件は常に表示されます。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.tbxSpanOfAoundAlert_Desc">
+<summary>
+  ※Alert画像が点滅表示されている際、何秒間までAlert音を鳴らすかを指定して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.tbxSpanOfCF_AtFindNewTicket_Desc">
+<summary>
+  ※常石設計の場合「する」固定 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.tbxSpanOfCF_AtRegularly_Desc">
+<summary>
+  ※表示する工場(常石/TZS/THI)の自動切替方法を指定して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Zh.tbxSpanOfReload_Desc">
+<summary>
+  ※最新の案件情報をDatabaseから自動で何秒毎に読み込むかを指定して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.btnSave">
+<summary>
+  Save に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.btnSaveCancel">
+<summary>
+  Cancel に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.gbxSearchCondition">
+<summary>
+  [対応完了]案件 表示範囲 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.gbxSpanOfAoundAlert">
+<summary>
+  Alert音 再生時間 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.gbxSpanOfCF_AtFindNewTicket">
+<summary>
+  現在表示していない工場で新規案件が登録された場合の自動切替 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.gbxSpanOfCF_AtRegularly">
+<summary>
+  一定時間毎の自動切替 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.gbxSpanOfChangeFactory">
+<summary>
+  工場 自動切替間隔 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.gbxSpanOfReload">
+<summary>
+  Data 自動読込間隔 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSearchCondition_Days">
+<summary>
+  日間 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSearchCondition_Last">
+<summary>
+  直近 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSpanOfAoundAlert_Sec">
+<summary>
+  秒間 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSpanOfCF_AtFindNewTicket_Exec_No">
+<summary>
+  しない に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSpanOfCF_AtFindNewTicket_Exec_Yes">
+<summary>
+  する に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSpanOfCF_AtRegularly_Exec_No">
+<summary>
+  しない に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSpanOfCF_AtRegularly_Exec_Yes">
+<summary>
+  する に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSpanOfCF_AtRegularly_Exec_Yes_EverySec">
+<summary>
+  秒毎 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.lblSpanOfReload_EverySec">
+<summary>
+  秒毎 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.tbxSearchCondition_Desc1">
+<summary>
+  ※表示したい[対応完了]案件の対応完了日範囲を指定して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.tbxSearchCondition_Desc2">
+<summary>
+  ※尚、上記指定に関わらず[未確認][確認済][対応中]の案件は常に表示されます。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.tbxSpanOfAoundAlert_Desc">
+<summary>
+  ※Alert画像が点滅表示されている際、何秒間までAlert音を鳴らすかを指定して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.tbxSpanOfCF_AtFindNewTicket_Desc">
+<summary>
+  ※常石設計の場合「する」固定 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.tbxSpanOfCF_AtRegularly_Desc">
+<summary>
+  ※表示する工場(常石/TZS/THI)の自動切替方法を指定して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwConfig_Ja.tbxSpanOfReload_Desc">
+<summary>
+  ※最新の案件情報をDatabaseから自動で何秒毎に読み込むかを指定して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trMsg_En">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.ConfirmUpdTicketInf">
+<summary>
+  Update SP Drafting No.: {0}&apos;s design team to  [{1}].
+Are you sure? に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.ConfirmUpdTicketInfForWHPro">
+<summary>
+  Update SP Drafting No.: {0}&apos;s status.
+Are you sure? に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.ConfirmUpdTicketInfRemarkForDsg">
+<summary>
+  *If you click [Yes] button,
+ - The status is updated from Unconfirmed To Confirmed.
+ - An e-mail will  be sent to vessel staff. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.ConfirmUpdTicketInfRemarkForWHPro">
+<summary>
+  _No Use_ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.FinishedUpdate">
+<summary>
+  Update process has been finished. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.lblDescFiltering">
+<summary>
+  *Now Filtering. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.lblDescFilteringRemark">
+<summary>
+    (During filtering, A new draft is not displayed.) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.lblRequestSelTeam">
+<summary>
+  *Please select. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.lblSearchResultCnt">
+<summary>
+  {0} results were found. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.lblSearchResultCntFiltering">
+<summary>
+  *{0} of them are displayed by filtering. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_En.lblSearchResultCntZero">
+<summary>
+  There was no result. に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trMsg_Zh">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.ConfirmUpdTicketInf">
+<summary>
+  SP起案号码：{0}更新为[{1}]
+的设计反应队伍。
+你到底想要什么？ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.ConfirmUpdTicketInfForWHPro">
+<summary>
+  SP起案号码：更新的{0}状态。
+可以吗？ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.ConfirmUpdTicketInfRemarkForDsg">
+<summary>
+  ※[Yes]当您选择设计响应团队将收到通知
+　国家将被更新为[未確認]→[己確認]。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.ConfirmUpdTicketInfRemarkForWHPro">
+<summary>
+  ※状态如果选择[是]将被更新。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.FinishedUpdate">
+<summary>
+  完成更新 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.lblDescFiltering">
+<summary>
+  ※锁定范围显示中。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.lblDescFilteringRemark">
+<summary>
+  　 (锁定范围显示中将无法显示新发生事件。) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.lblRequestSelTeam">
+<summary>
+  ※请选择。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.lblSearchResultCnt">
+<summary>
+  找到 {0} 个。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.lblSearchResultCntFiltering">
+<summary>
+  ※显示锁定范围中的 {0} 个 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Zh.lblSearchResultCntZero">
+<summary>
+  没有找到可显示的数据。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trMsg_Ja">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.ConfirmUpdTicketInf">
+<summary>
+  スマホ起案番号: {0} の 設計対応チームを 
+[{1}] に更新します。
+宜しいですか？ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.ConfirmUpdTicketInfForWHPro">
+<summary>
+  スマホ起案番号: {0} の 状態を更新します。
+宜しいですか？ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.ConfirmUpdTicketInfRemarkForDsg">
+<summary>
+  ※[Yes]を選択すると設計対応チームの
+　標準船/番船担当者へ通知が届き
+　状態が[未確認]→[確認済]へ更新されます。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.ConfirmUpdTicketInfRemarkForWHPro">
+<summary>
+  　　※[Yes]を選択すると状態が[確認済]へ更新されます。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.FinishedUpdate">
+<summary>
+  更新処理が完了しました。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.lblDescFiltering">
+<summary>
+  ※絞り込み表示中です。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.lblDescFilteringRemark">
+<summary>
+  　 (絞り込み表示中は新規発生案件が表示されません。) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.lblRequestSelTeam">
+<summary>
+  ※選択して下さい。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.lblSearchResultCnt">
+<summary>
+  {0} 件見つかりました。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.lblSearchResultCntFiltering">
+<summary>
+  ※内 {0} 件 を絞り込みで表示中 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trMsg_Ja.lblSearchResultCntZero">
+<summary>
+  表示可能なデータが見つかりません。 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.audio">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.audio.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.audio.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.audio.notify">
+<summary>
+  System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.strSQL">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Ins_TicketQueue">
+<summary>
+  insert into
+    ticket_queue
+	(id
+	 ,ticket_id)
+values(
+    nextval(&apos;ticket_queue_id_seq&apos;)
+    ,@ticket_id
+) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Ins_TicketStatusHistory">
+<summary>
+  insert into
+    ticket_status_history
+	(id
+	 ,ticket_id
+	 ,status_id
+	 ,notification_flag
+	 ,updated_by
+	 ,created_at)
+values(
+    nextval(&apos;ticket_status_history_id_seq&apos;)
+    ,@ticket_id
+    ,@latest_status_id
+    ,0
+    ,0 --(select id from person where lower(login)=lower(@user_name)) --My.System.Enviroment.UserName取得結果が日本語/中国語OSで異なる(大文字・小文字が異なる)ようなので小文字に統一した上で処理
+    ,current_timestamp
+) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_ClsIniDispSec">
+<summary>
+  select
+    classification_id
+    ,section_id
+from
+    class_initdisp_section
+ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_CntOfUnconfirmedTicket">
+<summary>
+   select 
+     count(id) cnt 
+ from 
+     ticket 
+ where 
+     latest_status_id = 1  に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_CntOfUnconfirmedTicketPerDept">
+<summary>
+  select
+    count(t.id) cnt
+from
+    ticket t
+    ,ticket_disp_section tds
+    ,ticket_item ti
+where
+    t.id=tds.ticket_id
+and t.id=ti.ticket_id
+and tds.section_id=@user_section_id
+and t.latest_status_id in ({0}) -- 部門毎に異なる
+ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_CntOfUser">
+<summary>
+  select
+    count(id) cnt
+from
+    person
+where
+    lower(login)=lower(@user_name) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_Image">
+<summary>
+  select 
+	file_body_fbd_
+from attachment
+where ticket_id=@ticket_id
+order by
+id
+ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_MooringShipList">
+<summary>
+  /* 係船情報の取得 */
+select
+    a.address
+    ,a.latitude
+    ,a.longitude
+    ,coalesce(s.code,&apos;&apos;) ship_no --&apos;DBNullとならないようcoalesceで変換 ※DBNullとなると後続処理が煩雑になるため
+from
+    address a
+    left outer join address_ship ads on a.id = ads.address_id
+    left outer join ship s on s.id = ads.ship_id
+where
+    a.mooring_show_flg = 1 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_RebootFlag">
+<summary>
+  select
+    reboot_flag
+from
+    promptreport_config
+ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_TeamList">
+<summary>
+  /* チーム一覧情報の取得 */
+with
+    m as (select * from v_team)
+    ,ja as (select * from m where language_code=&apos;ja&apos;)
+    ,zh as (select * from m where language_code=&apos;zh&apos;)
+    ,en as (select * from m where language_code=&apos;en&apos;)
+select
+    ja.id    as team_id
+    ,ja.name as team_name_ja
+    ,zh.name as team_name_zh
+    ,en.name as team_name_en
+from
+    ja,zh,en
+where
+    ja.id=zh.id
+and ja.id=en.id
+order by
+    ja.id に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_TicketList">
+<summary>
+  with
+--工場起票
+target as ( 
+     -- (1/2)対応途中のもの
+    select t.id
+    from
+        ticket t
+        ,ticket_disp_section  tds
+        ,ticket_item ti
+    where
+        t.id=tds.ticket_id
+    and t.id=ti.ticket_id
+    {2}
+    and t.latest_status_id in ({0}) -- 未完了な状態一覧(部門毎に異なる)
+
+    union
+
+     -- (2/2)対応済だが表示終了期限を過ぎていないもの
+	select distinct t.ticket_id as ticket_id
+    from
+        ticket_status_history t
+        ,ticket_disp_section  tds
+        ,ticket_item ti
+    where
+        t.ticket_ [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_TicketListForWdwSC">
+<summary>
+  /* チケット一覧情報の取得 */
+
+/* Tips **************************************************************************
+ *・coalesce関数を利用しているのはDBNullとなり後続処理(VB側)が煩雑となるのを防ぐため 
+ *********************************************************************************/
+
+ -- 1.マスタ情報取得
+with
+    --チーム
+    base_team as (select * from v_team)
+    ,bt_ja as (select * from base_team where language_code=&apos;ja&apos;)
+    ,bt_zh as (select * from base_team where language_code=&apos;zh&apos;)
+    ,bt_en as (select * from base_team where language_code=&apos; [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_TicketListFrmAmn">
+<summary>
+  select
+    --tkt.item_number
+    tkt.id as ticket_id
+    ,sts.id as status_id
+	,sts.name as status_name_ja
+	,sts.name as status_name_zh
+    ,sts.name as status_name_en
+	,to_char(tkt.date_occured + cast(&apos;8 hour&apos; as interval), &apos;yyyy/MM/dd HH24:MI&apos;) occurred_datetime
+    ,cls.top_id as class_top_id
+    ,cls.top_name as class_name_top_ja
+    ,cls.top_name as class_name_top_zh
+    ,cls.top_name as class_name_top_en
+    ,cls.bottom_id as class_id
+    ,cls.notation as class_notation_ja
+    ,cls.notat [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Sel_UserBelongDept">
+<summary>
+  select
+    section_id
+from
+    person
+where
+    lower(login)=lower(@user_name)
+ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Upd_TicketInf">
+<summary>
+  /* 状態とチームの更新 */
+update
+    ticket
+set
+    latest_status_id=@latest_status_id
+    ,team_id=@team_id
+where
+    id=@ticket_id に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Upd_TicketInf_oldVer">
+<summary>
+  /* 状態の更新 */
+update
+    ticket
+set
+    latest_status_id=@latest_status_id
+where
+    id=@ticket_id に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.strSQL.Upd_TicketInfForWHPro">
+<summary>
+  /* 状態とチームの更新 */
+update
+    ticket
+set
+    latest_status_id=@latest_status_id
+where
+    id=@ticket_id に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwMain_Ja">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.btnReload">
+<summary>
+  更新 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.btnShowConfig">
+<summary>
+  設定 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.btnShowTicketList">
+<summary>
+  案件一覧 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colClassNameFull">
+<summary>
+  分類 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colDesignCorr">
+<summary>
+  対応内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colHdCompletedAt">
+<summary>
+  対応完了日時 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colHdDraftee">
+<summary>
+  起案者 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colHdOccurredAt">
+<summary>
+  発生日時 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colHdOccurredVessel">
+<summary>
+  発生番船 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colHdRevisedDrawingDate">
+<summary>
+  出図日 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colHdRevisedDrawingNo">
+<summary>
+  改正図番号 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colHdSPDraftingNo">
+<summary>
+  ｽﾏﾎ起案番号 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colRequest">
+<summary>
+  要求内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colStatusName">
+<summary>
+  状態 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colTeam">
+<summary>
+  設計対応ﾁｰﾑ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.colTranslatedRequest">
+<summary>
+  要求内容(翻訳後) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.gbChangeMark">
+<summary>
+  表示マーク に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.gbxDesignCorrInf">
+<summary>
+  設計対応 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.gbxDraftedInf">
+<summary>
+  起案内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblBtnShowWdwSC">
+<summary>
+  検索 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblClass">
+<summary>
+  分類 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblCorr">
+<summary>
+  対応内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblDesignTeam">
+<summary>
+  設計対応ﾁｰﾑ に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblDraftee">
+<summary>
+  起案者 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblExistenceOfRevDrawing">
+<summary>
+  ※改正図無し に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblLastReloaded">
+<summary>
+  ※最終更新 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblListTitle">
+<summary>
+  案件一覧 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblNoPhoto">
+<summary>
+  ※No Photo に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblOccurredAt">
+<summary>
+  発生日時 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblOccurredVessel">
+<summary>
+  発生番船 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblRequest">
+<summary>
+  要求内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblRevisedDrawingDate">
+<summary>
+  出図日 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblRevisedDrawingNo">
+<summary>
+  改正図番号 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblSPDraftingNo">
+<summary>
+  ｽﾏﾎ起案番号 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblStatus">
+<summary>
+  状態 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.lblTranslatedRequest">
+<summary>
+  要求内容(翻訳後) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.rbtnShowClass">
+<summary>
+  分類 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.rbtnShowStatus">
+<summary>
+  状態 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblClearFiltering">
+<summary>
+  絞り込み
+解除 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblClsImprove">
+<summary>
+  改善 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblClsOthers">
+<summary>
+  その他 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblClsTrouble">
+<summary>
+  不具合 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblClsWS">
+<summary>
+  未入荷
+/不足 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblStsCompleted">
+<summary>
+  対応完 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblStsConfirmed">
+<summary>
+  確認済 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblStsCorresponding">
+<summary>
+  対応中 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Ja.tblStsUnconfirmed">
+<summary>
+  未確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.trWdwMain_Zh">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.btnReload">
+<summary>
+  更新 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.btnShowConfig">
+<summary>
+  設定 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.btnShowTicketList">
+<summary>
+  案件列表 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colClassNameFull">
+<summary>
+  分類 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colDesignCorr">
+<summary>
+  対応内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colHdCompletedAt">
+<summary>
+  対応完了時間 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colHdDraftee">
+<summary>
+  起案者 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colHdOccurredAt">
+<summary>
+  発生日期 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colHdOccurredVessel">
+<summary>
+  発生番船 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colHdRevisedDrawingDate">
+<summary>
+  出日期 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colHdRevisedDrawingNo">
+<summary>
+  修订图号 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colHdSPDraftingNo">
+<summary>
+  SP起案号码 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colRequest">
+<summary>
+  要求内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colStatusName">
+<summary>
+  状態 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colTeam">
+<summary>
+  设计主管团队 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.colTranslatedRequest">
+<summary>
+  要求内容(翻訳後) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.gbChangeMark">
+<summary>
+  显示标记 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.gbxDesignCorrInf">
+<summary>
+  設計対応 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.gbxDraftedInf">
+<summary>
+  起案内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblBtnShowWdwSC">
+<summary>
+  検索 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblClass">
+<summary>
+  分類 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblCorr">
+<summary>
+  対応内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblDesignTeam">
+<summary>
+  设计主管团队 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblDraftee">
+<summary>
+  起案者 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblExistenceOfRevDrawing">
+<summary>
+  ※改正図無 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblLastReloaded">
+<summary>
+  ※最終更新 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblListTitle">
+<summary>
+  案件列表 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblNoPhoto">
+<summary>
+  ※No Photo に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblOccurredAt">
+<summary>
+  発生日期 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblOccurredVessel">
+<summary>
+  発生番船 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblRequest">
+<summary>
+  要求内容 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblRevisedDrawingDate">
+<summary>
+  出日期 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblRevisedDrawingNo">
+<summary>
+  修订图号 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblSPDraftingNo">
+<summary>
+  SP起案号码 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblStatus">
+<summary>
+  状態 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.lblTranslatedRequest">
+<summary>
+  要求内容(翻訳後) に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.rbtnShowClass">
+<summary>
+  分類 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.rbtnShowStatus">
+<summary>
+  状態 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblClearFiltering">
+<summary>
+  解除
+锁定范围 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblClsImprove">
+<summary>
+  改善 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblClsOthers">
+<summary>
+  其他 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblClsTrouble">
+<summary>
+  不具合 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblClsWS">
+<summary>
+  未入荷
+/不足 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblStsCompleted">
+<summary>
+  対応完 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblStsConfirmed">
+<summary>
+  己確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblStsCorresponding">
+<summary>
+  対応中 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.trWdwMain_Zh.tblStsUnconfirmed">
+<summary>
+  未確認 に類似しているローカライズされた文字列を検索します。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.Resources.Resources">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.Resources.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.Resources.Resources.Culture">
+<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.My.MyWpfExtension">
+ <summary>
+ WPF のマイ名前空間で使用できるプロパティを定義するためのモジュール
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Wpf01_ShowMap.My.MyWpfExtension.Application">
+ <summary>
+ 実行中のアプリケーション用のアプリケーション オブジェクトを返します
+ </summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.MyWpfExtension.Computer">
+ <summary>
+ ホスト コンピューターに関する情報を返します。
+ </summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.MyWpfExtension.User">
+ <summary>
+ 現在のユーザーに関する情報を返します。現在の
+ Windows ユーザー資格情報でアプリケーションを実行する場合は、My.User.InitializeWithWindowsUser() を呼び出してください。
+ </summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.MyWpfExtension.Log">
+ <summary>
+ アプリケーション ログを返します。リスナーは、アプリケーションの構成ファイルを使用して構成できます。
+ </summary>
+</member>
+<member name="P:Wpf01_ShowMap.My.MyWpfExtension.Windows">
+ <summary>
+ プロジェクトで定義されている Windows の集合を返します。
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlAccessDB.fnSelCntOfUnconfirmedTicketPerDept(Wpf01_ShowMap._Vari.srtExcPrm_PerEnvDiv,System.Int32)">
+ <summary>
+ 部門別 "未確認"チケットの件数取得
+ </summary>
+ <param name="in_EV"></param>
+ <param name="in_intUserSecID">利用者部門ID</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlAccessDB.sbSelTicketList(Wpf01_ShowMap._Vari.srtExcPrm_PerEnvDiv,System.Int32,System.DateTime[],System.Int32@,System.Data.DataView@)">
+ <summary>
+ チケット一覧取得
+ </summary>
+ <param name="in_EV"></param>
+ <param name="in_dateReport"></param>
+ <param name="out_intDataCnt"></param>
+ <param name="out_dvData"></param>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlAccessDB.sbSelDsgTeamList(Wpf01_ShowMap._Vari.srtExcPrm_PerEnvDiv,System.Int32@,System.Data.DataView@)">
+ <summary>
+ チーム一覧取得
+ </summary>
+ <param name="in_EV"></param>
+ <param name="out_intDataCnt"></param>
+ <param name="out_dvData"></param>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlAccessDB.fnSelAddrShipList(System.String,Wpf01_ShowMap._Vari.srtAddrShip[]@)">
+ <summary>
+ 番地x番船マスタデータ取得
+ </summary>
+ <param name="in_strDBConnStr"></param>
+ <param name="out_acData"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlAccessDB.fnUpdInsTicketInfForDsg(System.String,System.String,System.String,System.Int32,System.Int32)">
+ <summary>
+ チケット関連テーブルデータ編集
+ 　・チケット          ：更新
+ 　・チケット状態履歴  ：行追加
+ 　・チケットキュー    ：行追加
+ </summary>
+ <param name="in_strDBConnStr">DB接続識別子</param>
+ <param name="in_strUserName">更新者名</param>
+ <param name="in_strCtrlNo">管理番号</param>
+ <param name="intStsID_Next">更新後の状態ID</param>
+ <param name="in_intTeamID">チームID</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlAccessDB.sbSelTicketList_From_Amendment(Wpf01_ShowMap._Vari.srtExcPrm_PerEnvDiv,System.DateTime[],System.Int32@,System.Data.DataView@)">
+ <summary>
+ チケット一覧取得
+ </summary>
+ <param name="in_EV"></param>
+ <param name="in_dateReport"></param>
+ <param name="out_intDataCnt"></param>
+ <param name="out_dvData"></param>
+</member>
+<member name="M:Wpf01_ShowMap.HandlingError.sbShowErrMsg(System.Exception,System.String)">
+ <summary>
+ システムエラーメッセージ表示
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlImageOfDB.ByteArrayToImage(System.Byte[])">
+ <summary>
+ バイト配列(DBから取得したPhotoデータ)をImageオブジェクトに変換
+ </summary>
+ <param name="b"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlColor.mdlCtrlColor.fnGetLGBForTicketDtlBody(System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="intClassID1st"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlColor.mdlCtrlColor.fnGetBrhForTicketDtlCir(System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="in_intClassIDofLvFirst"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnRtnCondClsIDTop(System.String,Wpf01_ShowMap.wdwMain,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="strBtnName"></param>
+ <param name="w"></param>
+ <param name="c_intNone"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnIntNextStsID(System.Int32,System.Int32)">
+ <summary>
+ 更新後の状態IDを返す
+ </summary>
+ <param name="intStsID">更新前の状態ID</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnStrAryStsNm(System.Int32)">
+ <summary>
+ 状態名を返す
+ </summary>
+ <param name="in_intStatusID">状態ID</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnRtnRiseAlertStsID(System.Int32)">
+ <summary>
+ アラート通知対象の状態IDを返す
+ </summary>
+ <param name="in_intSectionID"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnIntAryOfUnconfirmedStsIDs(System.Int32)">
+ <summary>
+ 部門別の"未確認"な状態一覧を返す
+ </summary>
+ <param name="in_intSectionID"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnIntAryOfUnconmpleStsIDs(System.Int32)">
+ <summary>
+ 部門別の"未"完了な状態一覧を返す
+ </summary>
+ <param name="in_intSectionID"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnIntAryOfConmpledStsIDs(System.Int32)">
+ <summary>
+ 部門別の完了している状態一覧を返す
+ </summary>
+ <param name="in_intSectionID"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnStrAryOfUnconfirmedStsIDs(System.Int32)">
+ <summary>
+ 部門別の"未確認"な状態一覧を返す(動的SQLWhere句用)
+ </summary>
+ <param name="in_intSectionID"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnStrAryOfUnconmpleStsIDs(System.Int32)">
+ <summary>
+ 部門別の"未"完了な状態一覧を返す(動的SQLWhere句用)
+ </summary>
+ <param name="in_intSectionID"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnStrAryOfConmpledStsIDs(System.Int32)">
+ <summary>
+ 部門別の完了している状態一覧を返す(動的SQLWhere句用)
+ </summary>
+ <param name="in_intSectionID"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlDBRecVal.mdlCtrlDBRecVal.fnStrSQLCondSection(System.Int32)">
+ <summary>
+ 部門別に案件一覧検索条件のWhere句パラメータを返す
+ </summary>
+ <param name="in_intSectionID"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlImgSrc.mdlCtrlImgSrc.fnGetImgSrc_Class(System.Int32,Wpf01_ShowMap.wdwMain)">
+ <summary>
+ 分類のイメージソース取得
+ </summary>
+ <param name="intClassIDFirst">分類ID</param>
+ <returns>分類のイメージソース</returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlImgSrc.mdlCtrlImgSrc.fnGetImgSrc_Status(System.Int32,Wpf01_ShowMap.wdwMain)">
+ <summary>
+ 状態のイメージソース取得
+ </summary>
+ <param name="intStatusID">状態ID</param>
+ <returns>状態のイメージソース</returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlImgSrc.mdlCtrlImgSrc.fnGetImgSrc_Class_ForDtlHead(System.Int32,Wpf01_ShowMap.wdwMain)">
+ <summary>
+ 分類のイメージソース取得(チケット詳細吹き出しヘッダ用)
+ </summary>
+ <param name="intClassIDFirst">分類ID</param>
+ <returns>分類のイメージソース</returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlJudgeUser.mdlCtrlJudgeUser.fnLoginIsKKPSysUser(System.String)">
+ <summary>
+ サイネージ用ユーザーアカウントで実行中か否か
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlJudgeUser.mdlCtrlJudgeUser.sbSetUserInfToPrm(System.Int32@,System.Int32@)">
+ <summary>
+ 
+ </summary>
+ <param name="out_intCntOfUser"></param>
+ <param name="out_intUserSecID"></param>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlJudgeUser.mdlCtrlJudgeUser.fnUserIsWHorPro(System.Int32)">
+ <summary>
+ ログインユーザーの所属部門が倉庫/調達かを判定
+ </summary>
+ <param name="intUserSecID">ログインユーザーID</param>
+ <returns>True:Yes、False:No</returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlLang.mdlCtrlLang.SetItemTROfTicketListCnt(System.String,System.Int32)">
+ <summary>
+ チケット一覧の検索結果件数表示
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlLang.mdlCtrlLang.fnRtnWidthHeight(System.String,System.String)">
+ <summary>
+ 項目の表示サイズ設定
+ </summary>
+ <param name="strTargetItemLang">どの言語表示用の項目か</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlLang.mdlCtrlLang.fnRtnColWidth(System.String,System.String,System.Double)">
+ <summary>
+ 一覧項目の表示幅設定
+ </summary>
+ <param name="in_strShowLang">表示予定の言語</param>
+ <param name="strTargetItemLang">どの言語表示用の項目か</param>
+ <param name="dblDfltWidth">既定の列幅</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.CtrlPlaseSize._CtrlPlaseSize.fnGetCLeftTop(System.Double,System.Double,Wpf01_ShowMap._Vari.srtAddrPoint[])">
+ <summary>
+ 緯度・経度を基に画面での表示位置(Canvas.Left,Canvas.Top)を返す
+ </summary>
+ <param name="dblLatitude">緯度</param>
+ <param name="dblLongitude">経度</param>
+ <returns></returns>
+</member>
+<member name="T:Wpf01_ShowMap.CntMatrix">
+<summary>
+CntMatrix
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.CntMatrix.sbSetCntMatrixBtnAry">
+ <summary>
+ 処理簡素化のためにコントロール配列へセット
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.CntMatrix.sbVisCols(System.Int32,System.String)">
+ <summary>
+ 件数ボタンの表示制御(列単位)
+ </summary>
+ <param name="intUsersDeptID">利用者の所属部門</param>
+</member>
+<member name="M:Wpf01_ShowMap.CntMatrix.sbVisRows(System.Int32)">
+ <summary>
+ 件数ボタンの表示制御(行単位)
+ </summary>
+ <param name="intUsersDeptID">利用者の所属部門</param>
+</member>
+<member name="M:Wpf01_ShowMap.CntMatrix.sbSetColor_RelateRefined(System.Boolean,System.String)">
+ <summary>
+ 絞込処理時のボタン背景色設定
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.CntMatrix.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.HeadMenu">
+<summary>
+HeadMenu
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.HeadMenu.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.NumericUpDown">
+<summary>
+NumericUpDown
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.NumericUpDown.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.TicketDtl">
+<summary>
+TicketDtl
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.TicketDtl.sbVisCorr(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 案件詳細吹き出しにおける部門別対応タブの表示制御
+ </summary>
+ <param name="intTD_ClsIDBtm">案件詳細吹き出しの分類ID</param>
+ <param name="intTD_StsID">案件詳細吹き出しの状態ID</param>
+ <param name="intUserSecID">速報画面利用者の所属部門ID</param>
+</member>
+<member name="M:Wpf01_ShowMap.TicketDtl.sbDispCorrPerSec(System.Boolean,System.Boolean,System.Boolean)">
+ <summary>
+ 詳細吹き出しにおける対応タブの表示制御
+ </summary>
+ <param name="bDispDsg"></param>
+ <param name="bDispWH"></param>
+ <param name="bDispPro"></param>
+</member>
+<member name="M:Wpf01_ShowMap.TicketDtl.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.TicketDtlAmn">
+<summary>
+TicketDtlAmn
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.TicketDtlAmn.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.TicketList">
+<summary>
+TicketList
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.TicketList.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.TicketListAmn">
+<summary>
+TicketListAmn
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.TicketListAmn.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.wdwConfig">
+<summary>
+wdwConfig
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwConfig.sbCtrlCheckAndEnable(System.Windows.Controls.RadioButton)">
+ <summary>
+ 「表示対象」のラジオボタン制御
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwConfig.sbCtrlCheckAndEnable2(System.Windows.Controls.RadioButton)">
+ <summary>
+ 「表示対象」のラジオボタン制御
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwConfig.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.wdwConfirmUpdateForWHPro">
+<summary>
+wdwConfirmUpdateForWHPro
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwConfirmUpdateForWHPro.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.wdwConfirmUpdateForDsg">
+<summary>
+wdwConfirmUpdateForDsg
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwConfirmUpdateForDsg.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.wdwFinishedUpdate">
+<summary>
+wdwFinishedUpdate
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwFinishedUpdate.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.wdwNotifyAlert">
+<summary>
+wdwNotifyAlert
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwNotifyAlert.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.wdwPhoto">
+<summary>
+wdwPhoto
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwPhoto.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.wdwSearchCondition">
+<summary>
+wdwSearchCondition
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwSearchCondition.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:Wpf01_ShowMap.wdwMain">
+<summary>
+wdwMain
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.#ctor">
+ <summary>
+ 初期処理
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSetExecParamFromArg">
+ <summary>
+ 起動時引数を基に実行パラメータを設定
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.wdwMain_Loaded(System.Object,System.EventArgs)">
+ <summary>
+ 本画面ロード処理
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSetIniProp">
+ <summary>
+ 画面コントロールの初期設定
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbLoadAndSetDBData(System.Boolean,System.Boolean)">
+ <summary>
+ DBデータの取得と画面コントロールへのセット
+ </summary>
+ <param name="bJudgeMustShowFactory">どの工場を表示すべきかの判定を True:する/False:しない</param>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.fnGetMustShowFactory">
+ <summary>
+ 表示すべき工場を取得
+ </summary>
+ <returns>表示すべき工場</returns>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.fnGetCntOfUnconfirmedTicket(System.String)">
+ <summary>
+ "未確認"チケット件数取得
+ </summary>
+ <param name="in_strFactory">工場</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSearchAndSetTicketList">
+ <summary>
+ チケット一覧へ表示するデータの取得・セット
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSearchAndSetTicketListAmn">
+ <summary>
+ チケット一覧へ表示するデータの取得・セット
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbShowElpTicketMarksOnMap">
+ <summary>
+ チケットマークコントロールの生成
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSearchAndSetMooringShips">
+ <summary>
+ 建造中、及び進水済の船表示
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSetShipAry">
+ <summary>
+ 処理簡素化のためにコントロール配列へセット
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbShowMooringShips(Wpf01_ShowMap._Vari.srtAddrShip[])">
+ <summary>
+ DBから取得した係船情報を画面へ表示
+ </summary>
+ <param name="in_acAry">DBから取得した係船情報</param>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.dtmrReloadDBData_Tick(System.Object,System.EventArgs)">
+ <summary>
+ DBデータリロードの定期実行処理
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbStartStop_FlashAlert">
+ <summary>
+ アラート画像点滅開始/停止処理
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.dtmrFlashAlert_Tick(System.Object,System.EventArgs)">
+ <summary>
+ アラート画像点滅処理
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbShowWdwNotiryAlert">
+ <summary>
+ 画面右下へのミニ通知ウィンドウ表示処理
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbEmphasizeTicketMark(System.Int32,System.Boolean,System.Boolean)">
+ <summary>
+ チケットマークの強調表示
+ </summary>
+ <param name="intTicketID">チケットID</param>
+ <param name="bSizeUp">拡大表示 True:する/False:しない</param>
+ <param name="bZIndexToFront">手前に表示 True:する/False:しない</param>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.dtmrFlashTicketMark_Tick(System.Object,System.EventArgs)">
+ <summary>
+ チケットマーク点滅処理
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.btnReload_Click(System.Object,System.Windows.RoutedEventArgs)">
+ <summary>
+ 「更新」ボタンクリックイベント
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.btnShowTicketList_Click(System.Object,System.EventArgs)">
+ <summary>
+ 「一覧」ボタンクリックイベント
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.btnCloseTicketList_Click(System.Object,System.EventArgs)">
+ <summary>
+ チケット一覧の「×」ボタンクリックイベント
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.fnGetClsStsImageSource(System.Int32,System.String)">
+ <summary>
+ 状態/分類イメージソース取得処理(地図上のチケットマーク、及びチケット詳細吹き出し用)
+ </summary>
+ <param name="intTicketListRowIdx">一覧の選択行Index</param>
+ <param name="strWhichClsOrSts">状態/分類どちらを返すか</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.fnGetClsStsImageSource_ForDtlHead(System.Int32,System.String)">
+ <summary>
+ 状態/分類イメージソース取得処理(チケット詳細吹き出しヘッダ用)
+ </summary>
+ <param name="intTicketListRowIdx">一覧の選択行Index</param>
+ <param name="strWhichClsOrSts">状態/分類どちらを返すか</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.fnGetTicketID(System.String)">
+ <summary>
+ コントロール名を基にチケットIDを取得
+ </summary>
+ <param name="strElpName"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.fnGetRowIdxFromLvTicketList(System.Int32)">
+ <summary>
+ チケット一覧から対象行Indexを取得
+ </summary>
+ <param name="intTicketID">チケットID</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.lvTicketList_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+ <summary>
+ チケット一覧選択行が変更された場合
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.lvTicketListAmn_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+ <summary>
+ チケット一覧選択行が変更された場合
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbClearTicketMarksOnMap">
+ <summary>
+ 問題マークコントロールの初期化
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbChangeShowMark">
+ <summary>
+ 地図上のマーク表示切り替え　※「分類」⇔「状態」
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSetCntMatrixFromLvTicketList">
+ <summary>
+ 問題発生件数の表示制御
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.btnCntMatrix_Click(System.Object,System.EventArgs)">
+ <summary>
+ 件数表のボタンがクリックされた場合
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbRefine(System.Windows.Controls.Button)">
+ <summary>
+ 絞込
+ </summary>
+ <param name="btn"></param>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbClearRefine">
+ <summary>
+ 絞込解除
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.fnSetOpacityStep(System.Int32@,System.Boolean@,System.Int32,System.Int32)">
+ <summary>
+ 透明度算出
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbShowWdwFinishedUpdate">
+ <summary>
+ 更新完了メッセージウィンドウの表示
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbCtrlItemOfCotTicketDtl(System.Int32,System.Int32)">
+ <summary>
+ '状態とチーム名の表示制御
+ </summary>
+ <param name="intStatusID"></param>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSearchAndSetTeamList">
+ <summary>
+ チーム一覧へ表示するデータの取得・セット
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbAdjustScrnLayout">
+ <summary>
+ 画面レイアウトの調整
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.sbSearchAndSetTicketListForwdwSC">
+ <summary>
+ チケット一覧へ表示するデータの取得・セット
+ </summary>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.SetVisibleOfFilteringImageAtTicketList(System.Boolean)">
+ <summary>
+ 案件一覧におけるフィルタリング画像の表示/非表示制御
+ </summary>
+ <param name="in_bShow">True:表示/False:非表示</param>
+</member>
+<member name="M:Wpf01_ShowMap.wdwMain.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:Wpf01_ShowMap.Utility.mdlUtility.CombineStringsWithCommas(System.String,System.String)">
+ <summary>
+ 文字列をカンマ結合
+ </summary>
+ <param name="strBase">結合基の文字列</param>
+ <param name="strAdd">結合基に結合(追加)する文字列</param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.Utility.mdlUtility.ByteArrayToImage(System.Byte[])">
+ <summary>
+ DBから取得したByte型画像データを画面に表示する為のImageに変換
+ </summary>
+ <param name="b"></param>
+ <returns></returns>
+</member>
+<member name="M:Wpf01_ShowMap.Utility.mdlUtility.fnStrScrnSubTitleName(System.Int32)">
+ <summary>
+  画面タイトル付属文字取得
+ </summary>
+ <param name="in_intUserSecID"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>
